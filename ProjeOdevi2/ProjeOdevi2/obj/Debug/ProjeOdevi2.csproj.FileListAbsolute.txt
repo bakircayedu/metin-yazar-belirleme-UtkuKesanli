@@ -1,0 +1,11 @@
+C:\Users\utku\Desktop\Kodlama\C#\ProjeOdevi2\ProjeOdevi2\bin\Debug\ProjeOdevi2.exe.config
+C:\Users\utku\Desktop\Kodlama\C#\ProjeOdevi2\ProjeOdevi2\bin\Debug\ProjeOdevi2.exe
+C:\Users\utku\Desktop\Kodlama\C#\ProjeOdevi2\ProjeOdevi2\bin\Debug\ProjeOdevi2.pdb
+C:\Users\utku\Desktop\Kodlama\C#\ProjeOdevi2\ProjeOdevi2\obj\Debug\ProjeOdevi2.csproj.AssemblyReference.cache
+C:\Users\utku\Desktop\Kodlama\C#\ProjeOdevi2\ProjeOdevi2\obj\Debug\ProjeOdevi2.csproj.SuggestedBindingRedirects.cache
+C:\Users\utku\Desktop\Kodlama\C#\ProjeOdevi2\ProjeOdevi2\obj\Debug\ProjeOdevi2.Form1.resources
+C:\Users\utku\Desktop\Kodlama\C#\ProjeOdevi2\ProjeOdevi2\obj\Debug\ProjeOdevi2.Properties.Resources.resources
+C:\Users\utku\Desktop\Kodlama\C#\ProjeOdevi2\ProjeOdevi2\obj\Debug\ProjeOdevi2.csproj.GenerateResource.cache
+C:\Users\utku\Desktop\Kodlama\C#\ProjeOdevi2\ProjeOdevi2\obj\Debug\ProjeOdevi2.csproj.CoreCompileInputs.cache
+C:\Users\utku\Desktop\Kodlama\C#\ProjeOdevi2\ProjeOdevi2\obj\Debug\ProjeOdevi2.exe
+C:\Users\utku\Desktop\Kodlama\C#\ProjeOdevi2\ProjeOdevi2\obj\Debug\ProjeOdevi2.pdb
